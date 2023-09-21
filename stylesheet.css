@@ -83,3 +83,15 @@ li{
   float:left;
   font-size: 36px;
 }
+.container{
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main{
+  padding: 180px 0 100px 0;
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png)
+  background-size: cover; 
+}
